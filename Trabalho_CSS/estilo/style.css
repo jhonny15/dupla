@@ -1,0 +1,65 @@
+body{
+    background: #94ddff;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-align: justify;
+}
+#menu{
+    height: 30px;
+    width: 960px;
+    padding: 10px 0px;
+    text-align: center;
+    word-spacing: 15px; 
+    background-color: #090842;
+}
+.cabeçalho{
+    width: 960px;
+    height: 300px;
+}
+#conteudo{
+    width: 960px;
+}
+#principal{
+    height: auto;
+    width:  680px;
+    float: left;
+    margin: 5px 0px 10px 0px;
+    padding: 5px;
+    background-color: #ff7b00 ;
+}
+.lateral{
+    width: 255px;
+    border-radius: 5px;
+    margin: 0px 0px 5px 5px;
+    font-size: 10px;
+    float: right;
+    padding: 3px;
+    height: 410px;
+    margin: 5px 0px 5px 5px;
+    background-color: #00146d;
+}
+.lateral img{
+    position: relative;
+    left: 5px;
+    bottom: 10px;
+    width: 100%;
+    height: 235px;
+}
+.lateral p{
+    color: rgb(12, 141, 0);
+    background-color: #00146d;
+}
+#rodape{
+    width: 960px;
+    height: 80px;
+    clear: both;
+    text-align: center;
+    background-color: rgb(221, 10, 10);
+}
+#pagina{
+    margin: 15px auto;
+    border: 2px solid #14a5ee;
+    width: 960px;
+}
